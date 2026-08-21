@@ -1,3 +1,7 @@
+# DISCLAIMER
+Work in Progress!
+
+Einige Funktionen sind zwar schon implementiert, sind aber noch fehlerhaft.
 # Image Browser
 
 Tkinter-basiertes Desktop-Tool zum Laden, Visualisieren und Analysieren von Fluoreszenz-Bilddaten im `.img`-Format (scanbin_s4) sowie gängigen Rasterbildformaten.
